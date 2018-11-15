@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body><p>body.et-pb-preview #page-container {
+
+body.et-pb-preview #page-container {
 padding-top: 0 !important;
 box-shadow: none !important;
 width: 100% !important;
@@ -32,8 +32,8 @@ color: #666;
 body.et-pb-preview:before {
 box-shadow: none;
 }
-body.et-pb-preview.et-db #main-content &gt; .container &gt; div,
-body.et-pb-preview.et-db #main-content &gt; .container &gt; div &gt; div {
+body.et-pb-preview.et-db #main-content > .container > div,
+body.et-pb-preview.et-db #main-content > .container > div > div {
 margin: 0;
 padding: 0;
 background: none;
@@ -204,7 +204,7 @@ margin-right: -40px;
 .rtl .et_pb_prompt_modal_save_library .et_pb_prompt_buttons {
 margin-right: 0;
 }
-.et_modal_on_top .et_pb_prompt_modal &gt; label {
+.et_modal_on_top .et_pb_prompt_modal > label {
 width: 300px !important;
 }
 .et_modal_on_top .et_pb_prompt_modal_save_library {
@@ -378,4 +378,3 @@ opacity: 1;
 .et_monarch .et_social_heading {
 display: none !important;
 }
-</p></body></html>

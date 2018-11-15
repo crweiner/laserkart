@@ -1,5 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body><p>## Core Components
+## Core Components
 This directory contains all of Core's PHP Components. Components are organized into groups using a nested directory structure.
  
 ### What's Inside
@@ -12,10 +11,9 @@ This directory contains all of Core's PHP Components. Components are organized i
 |Cache.php|ET_Core_Cache|Simple object cache|
 |HTTPInterface.php|ET_Core_HTTPInterface|Wrapper for WP's HTTP API|
 |Logger.php|ET_Core_Logger|Write to the debug log.
-|PageResource.php|ET_Core_PageResource|Cache inline styles &amp; scripts as static files.|
+|PageResource.php|ET_Core_PageResource|Cache inline styles & scripts as static files.|
 |Portability.php|ET_Core_Portability|Portability import/export|
-|Rollback.php|ET_Core_VersionRollback|Theme &amp; plugin version rollback|
-|Updates.php|ET_Core_Updates|Theme &amp; plugin updates|
+|Rollback.php|ET_Core_VersionRollback|Theme & plugin version rollback|
+|Updates.php|ET_Core_Updates|Theme & plugin updates|
 
-&gt; ***Note:*** Component groups are in **bold**.
-</p></body></html>
+> ***Note:*** Component groups are in **bold**.

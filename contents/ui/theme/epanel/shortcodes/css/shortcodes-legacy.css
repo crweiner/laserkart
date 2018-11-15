@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body><p>.et-box { margin: 0px 0px 10px; -moz-box-shadow: 0 1px 1px rgba(0,0,0,0.1); -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.1); box-shadow: 0 1px 1px rgba(0,0,0,0.1); font-size: 14px; position: relative; }
+
+.et-box { margin: 0px 0px 10px; -moz-box-shadow: 0 1px 1px rgba(0,0,0,0.1); -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.1); box-shadow: 0 1px 1px rgba(0,0,0,0.1); font-size: 14px; position: relative; }
 .et-box-content { text-shadow: 1px 1px 1px #ffffff; padding: 27px 43px 17px 66px; min-height: 35px; }
 .et-box-content strong { color: #000000; font-weight: bold; }
 .et-warning:before, .et-download:before, .et-info:before, .et-bio:before, .et-shadow:before { content: ''; position: absolute; top: 32px; left: 28px; }
@@ -111,10 +111,10 @@ ul.et_shortcodes_mobile_nav .et_sc_nav_next span, .et_shortcodes_controls_arrows
 .et-tabs-container .et-tabs-control li a:hover { color: #4c4c4c !important; text-decoration: none; }
 .et-tabs-container .et-tabs-control li.active:before { content: ''; position: absolute; bottom: 0; left: 0; width: 100%; height: 1px; background: #fff; }
 .et-tabs-container .et-tabs-control li.active a { background: #fff; color: #4c4c4c !important; }
-.et-tabs-content-wrapper &gt; div { display: none; }
+.et-tabs-content-wrapper > div { display: none; }
 .et_sliderfx_slide .et-tabs-content-wrapper { width: 1200%; position: relative; left: 0; }
-.et_sliderfx_slide .et-tabs-content-wrapper &gt; div { float: left; display: block; height: 1px; visibility: hidden; }
-.et_sliderfx_slide .et-tabs-content-wrapper &gt; div, .et_sliderfx_fade .et_slidecontent { word-wrap: break-word; }
+.et_sliderfx_slide .et-tabs-content-wrapper > div { float: left; display: block; height: 1px; visibility: hidden; }
+.et_sliderfx_slide .et-tabs-content-wrapper > div, .et_sliderfx_fade .et_slidecontent { word-wrap: break-word; }
 .et_sliderfx_slide .et_shortcode_slide_active { height: auto !important; }
 .et-tabs-container .et-tabs-content { margin: 30px 30px 20px; }
 .et-tabs-container ul.et_shortcodes_mobile_nav { border-bottom: 1px solid #e7e7e7; }
@@ -222,4 +222,3 @@ a.big-button, a.small-button, a.icon-button { cursor: pointer; }
 *:first-child+html .clearfix { zoom: 1; } /* IE7 */
 .et_column_last { margin-right: 0px !important; clear:right; }
 .clear { clear:both; }
-</p></body></html>

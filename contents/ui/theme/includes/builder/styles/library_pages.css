@@ -1,5 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body><p>.et_pb_modal_overlay .button-primary { text-shadow: none !important; }
+.et_pb_modal_overlay .button-primary { text-shadow: none !important; }
 select#filter-by-date { display: none; }
 div#et_pb_layout_controls, a#et_pb_toggle_builder { display: none; }
 div#misc-publishing-actions, div#minor-publishing-actions { display: none; }
@@ -26,4 +25,3 @@ a.et-pb-modal-save { width: 920px !important; }
 @-moz-keyframes et_pb_fade_out_scale { 0% { opacity: 1; transform: scale(1,1); } 100% { opacity: 0; transform: scale(.9,.9); } }
 @-o-keyframes et_pb_fade_out_scale { 0% { opacity: 1; transform: scale(1,1); } 100% { opacity: 0; transform: scale(.9,.9); } }
 @keyframes et_pb_fade_out_scale { 0% { opacity: 1; transform: scale(1,1); } 100% { opacity: 0; transform: scale(.9,.9); } }
-</p></body></html>

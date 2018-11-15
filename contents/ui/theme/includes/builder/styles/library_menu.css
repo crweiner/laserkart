@@ -1,5 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body><p>@font-face {
+@font-face {
 font-family: 'ETmodules';
 src:url('../../../core/admin/fonts/modules.eot');
 src:url('../../../core/admin/fonts/modules.eot?#iefix') format('embedded-opentype'),
@@ -10,4 +9,3 @@ font-weight: normal;
 font-style: normal;
 }
 li.toplevel_page_et_divi_options div.wp-menu-image:before { font-family: 'ETmodules'; content: '\e625';   width: 30px !important; font-size: 30px !important; margin-top: -5px; }
-</p></body></html>

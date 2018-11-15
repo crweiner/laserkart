@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body><p>body.wp-autoresize,
+
+body.wp-autoresize,
 body {
 font-family: 'Open Sans', Arial, sans-serif;
 font-size: 14px;
@@ -141,4 +141,4 @@ margin: 0;
 }
 textarea {
 padding: 4px;
-}</p></body></html>
+}

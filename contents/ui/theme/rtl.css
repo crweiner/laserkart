@@ -1,19 +1,18 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body><p>body { direction: rtl; unicode-bidi: embed; }
+body { direction: rtl; unicode-bidi: embed; }
 .container { text-align: right; }
 ul.et_pb_side_nav li.side_nav_item, .et-social-icons { float: left; }
-#top-menu &gt; li:last-child { padding-right: 22px; }
+#top-menu > li:last-child { padding-right: 22px; }
 #et-secondary-nav li:first-child { margin-right: 0; }
-#et-secondary-nav &gt; li:last-child { margin-right: 15px; }
+#et-secondary-nav > li:last-child { margin-right: 15px; }
 #top-menu li { text-align: right; }
-.rtl #top-menu .menu-item-has-children &gt; a:first-child { padding-left: 40px; padding-right: 20px; }
+.rtl #top-menu .menu-item-has-children > a:first-child { padding-left: 40px; padding-right: 20px; }
 #top-menu li.mega-menu ul li { float: right !important; }
-#top-menu li.mega-menu &gt; ul &gt; li:nth-of-type(4n) { clear: left; }
-#top-menu li.mega-menu &gt; ul &gt; li:nth-of-type(4n+1) { clear: right; }
+#top-menu li.mega-menu > ul > li:nth-of-type(4n) { clear: left; }
+#top-menu li.mega-menu > ul > li:nth-of-type(4n+1) { clear: right; }
 #sidebar .et_pb_widget, .bottom-nav, .et_pb_post, #left-area { text-align: right; }
 #footer-info { float: right; }
 .et-social-icons li:last-child { margin-left: 0; }
-#top-menu &gt; li:first-child, .bottom-nav li:first-child { padding-right: 0; }
+#top-menu > li:first-child, .bottom-nav li:first-child { padding-right: 0; }
 .widget_search #searchsubmit { right: auto; left: 0; }
 .et_pb_counter_amount { float: right; text-align: left; padding: 1px 1px 1px 3%; }
 blockquote { border-right: 5px solid; padding-right: 20px; padding-left: 0; border-left: 0; }
@@ -85,4 +84,3 @@ span.et_close_search_field,
 #et-top-navigation { float: left; }
 #et-secondary-menu { float: left; }
 #et-info { float: right; }
-</p></body></html>

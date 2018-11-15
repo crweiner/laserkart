@@ -1,8 +1,7 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body><p>Divi Theme by Elegant Themes
+Divi Theme by Elegant Themes
 ============================
 
-&gt; Copyright (C) 2016, Elegant Themes, Inc.
+> Copyright (C) 2016, Elegant Themes, Inc.
 
 Divi is a powerful multipurpose WordPress theme built atop the Divi Builder
 framework, a revolutionary drag and drop page builder for WordPress. This theme
@@ -37,4 +36,3 @@ http://www.elegantthemes.com/gallery/divi/documentation/divi-library/
 
 **6. Using The Divi Theme Customizer**
 http://www.elegantthemes.com/gallery/divi/documentation/customizer/
-</p></body></html>

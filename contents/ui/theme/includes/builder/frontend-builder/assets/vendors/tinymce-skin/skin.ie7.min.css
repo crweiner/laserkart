@@ -1,5 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body><p>.mce-container, .mce-container *, .mce-widget, .mce-widget *, .mce-reset {
+.mce-container, .mce-container *, .mce-widget, .mce-widget *, .mce-reset {
 margin: 0;
 padding: 0;
 border: 0;
@@ -322,7 +321,7 @@ border: 1px solid rgba(0, 0, 0, 0.25)
 margin-top: 10px;
 *margin-top: 0
 }
-.mce-floatpanel.mce-popover.mce-bottom&gt;.mce-arrow {
+.mce-floatpanel.mce-popover.mce-bottom>.mce-arrow {
 left: 50%;
 margin-left: -11px;
 border-top-width: 0;
@@ -330,7 +329,7 @@ border-bottom-color: #9e9e9e;
 border-bottom-color: rgba(0, 0, 0, 0.25);
 top: -11px
 }
-.mce-floatpanel.mce-popover.mce-bottom&gt;.mce-arrow:after {
+.mce-floatpanel.mce-popover.mce-bottom>.mce-arrow:after {
 top: 1px;
 margin-left: -10px;
 border-top-width: 0;
@@ -339,13 +338,13 @@ border-bottom-color: #fff
 .mce-floatpanel.mce-popover.mce-bottom.mce-start {
 margin-left: -22px
 }
-.mce-floatpanel.mce-popover.mce-bottom.mce-start&gt;.mce-arrow {
+.mce-floatpanel.mce-popover.mce-bottom.mce-start>.mce-arrow {
 left: 20px
 }
 .mce-floatpanel.mce-popover.mce-bottom.mce-end {
 margin-left: 22px
 }
-.mce-floatpanel.mce-popover.mce-bottom.mce-end&gt;.mce-arrow {
+.mce-floatpanel.mce-popover.mce-bottom.mce-end>.mce-arrow {
 right: 10px;
 left: auto
 }
@@ -1117,7 +1116,7 @@ direction: rtl
 .mce-fieldset {
 border: 0 solid #9E9E9E
 }
-.mce-fieldset&gt;.mce-container-body {
+.mce-fieldset>.mce-container-body {
 margin-top: -15px
 }
 .mce-fieldset-title {
@@ -1842,4 +1841,3 @@ visibility: hidden
 .mce-i-backcolor {
 background: #BBB
 }
-</p></body></html>

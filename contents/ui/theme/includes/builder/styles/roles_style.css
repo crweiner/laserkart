@@ -1,5 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body><p>.et_pb_roles_main_container, .et_pb_modal_overlay { font-family: 'Open Sans', sans-serif; }
+.et_pb_roles_main_container, .et_pb_modal_overlay { font-family: 'Open Sans', sans-serif; }
 .et_pb_roles_main_container .button-primary { text-shadow: none !important; }
 .et_pb_roles_main_container .button:active { -webkit-transform: none; -ms-transform: none; transform: none; }
 #et_pb_save_roles { -webkit-transition: background .5s; -moz-transition: background .5s; transition: background .5s; color: #FFF; background-color: #00C3AA; -webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none; border: none; padding: 0 20px 0 58px; font-size: 18px; font-weight: 300; height: 53px; line-height: 53px; margin: 4px 0 12px; display: inline-block; text-decoration: none; }
@@ -132,4 +131,3 @@ padding: 20px;
 @media all and ( max-width: 782px ) {
 #et_pb_loading_animation, #et_pb_success_animation { margin-left: -25px; }
 }
-</p></body></html>

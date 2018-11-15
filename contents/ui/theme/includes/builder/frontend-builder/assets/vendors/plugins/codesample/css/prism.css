@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body><p>code[class*="language-"],
+
+code[class*="language-"],
 pre[class*="language-"] {
 color: black;
 text-shadow: 0 1px white;
@@ -40,11 +40,11 @@ padding: 1em;
 margin: .5em 0;
 overflow: auto;
 }
-:not(pre) &gt; code[class*="language-"],
+:not(pre) > code[class*="language-"],
 pre[class*="language-"] {
 background: #f5f2f0;
 }
-:not(pre) &gt; code[class*="language-"] {
+:not(pre) > code[class*="language-"] {
 padding: .1em;
 border-radius: .3em;
 }
@@ -108,4 +108,3 @@ font-style: italic;
 .token.entity {
 cursor: help;
 }
-</p></body></html>

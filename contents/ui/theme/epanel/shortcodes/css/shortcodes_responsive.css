@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body><p>body.et_right_sidebar .pricing-table, body.et_left_sidebar .pricing-table { width: 50%; }
+
+body.et_right_sidebar .pricing-table, body.et_left_sidebar .pricing-table { width: 50%; }
 @media all and ( max-width: 959px ) {
 body.et_right_sidebar .one_third, body.et_right_sidebar .one_half, body.et_right_sidebar .one_third, body.et_right_sidebar .two_third, body.et_right_sidebar .one_fourth, body.et_right_sidebar .three_fourth,
 body.et_left_sidebar .one_third, body.et_left_sidebar .one_half, body.et_left_sidebar .one_third, body.et_left_sidebar .two_third, body.et_left_sidebar .one_fourth, body.et_left_sidebar .three_fourth { float: none; margin-right: 0; width: auto; margin-bottom: 10px; }
@@ -49,4 +49,4 @@ body.et_full_width_page .et_shortcodes_controls_arrows a { text-indent: -9999px;
 .et-box:before, .et-testimonial:before { display: none; }
 .et-box-content { padding: 27px 27px 17px 27px; }
 .et-testimonial { padding: 25px; }
-}</p></body></html>
+}

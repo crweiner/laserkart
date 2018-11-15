@@ -1,5 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body><p>.et_pb_modal_overlay.et_modal_on_top.et_pb_failure_notification_modal.et_pb_new_template_modal {
+.et_pb_modal_overlay.et_modal_on_top.et_pb_failure_notification_modal.et_pb_new_template_modal {
 z-index: 99999;
 position: relative;
 }
@@ -35,4 +34,4 @@ font-weight: 400 !important;
 }
 .et_pb_new_template_modal .et-pb-modal-close:before {
 font-weight: 600;
-}</p></body></html>
+}

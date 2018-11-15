@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body><p>.ui-helper-hidden {
+
+.ui-helper-hidden {
 display: none;
 }
 .ui-helper-hidden-accessible {
@@ -654,4 +654,3 @@ opacity: .3;
 filter: Alpha(Opacity=30);
 border-radius: 8px;
 }
-</p></body></html>

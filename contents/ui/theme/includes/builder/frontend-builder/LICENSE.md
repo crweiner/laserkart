@@ -1,5 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body><p>Bundle.js Development Credits And Associated Licenses
+Bundle.js Development Credits And Associated Licenses
 =====================================================
 
 bundle.js makes use of several pieces of open source software. When possible, each file 
@@ -49,7 +48,7 @@ Copyright 2003-2010 by the contributors
 WordPress is released under the GPL
 ```
 
-TinyMCE Media Upload Functions sendAttachment &amp; addMedia
+TinyMCE Media Upload Functions sendAttachment & addMedia
 --------------------------------------------------------
 
 includes/builder/frontend-builder/bundle.js
@@ -95,7 +94,7 @@ includes/builder/frontend-builder/bundle.js
 ```text
 MIT License
 
-Copyright (C) 2017 by Marijn Haverbeke <marijnh> and others
+Copyright (C) 2017 by Marijn Haverbeke <marijnh@gmail.com> and others
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -239,10 +238,10 @@ Lodash
 includes/builder/frontend-builder/bundle.js
 
 ```text
-Copyright jQuery Foundation and other contributors <https:></https:>
+Copyright jQuery Foundation and other contributors <https://jquery.org/>
 
 Based on Underscore.js, copyright Jeremy Ashkenas,
-DocumentCloud and Investigative Reporters &amp; Editors <http:></http:>
+DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
 
 This software consists of voluntary contributions made by many
 individuals. For exact contribution history, see the revision history
@@ -290,7 +289,7 @@ includes/builder/frontend-builder/bundle.js
 ```text
 The MIT License (MIT)
 
-Copyright (c) Sindre Sorhus <sindresorhus> (sindresorhus.com)
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -581,7 +580,7 @@ includes/builder/frontend-builder/bundle.js
 The MIT License (MIT)
 
 Copyright (c) 2009-2015 Jeremy Ashkenas, DocumentCloud and Investigative
-Reporters &amp; Editors
+Reporters & Editors
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
@@ -673,4 +672,3 @@ Copyright 2003-2010 by the contributors
 
 WordPress is released under the GPL
 ```
-</sindresorhus></marijnh></p></body></html>

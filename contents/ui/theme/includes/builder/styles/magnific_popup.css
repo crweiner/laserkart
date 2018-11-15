@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body><p>.mfp-wrap .mfp-container button:hover { background: transparent !important; }
+
+.mfp-wrap .mfp-container button:hover { background: transparent !important; }
 .mfp-wrap .mfp-arrow:active { position: absolute; top: 50%; }
 .mfp-wrap .mfp-close:active { position: absolute; top: -10px; }
 .mfp-arrow-left:after, .mfp-arrow-left .mfp-a, .mfp-arrow-right:after, .mfp-arrow-right .mfp-a { font-family: 'ETmodules'; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
@@ -82,4 +82,4 @@ img.mfp-img { width: auto; max-width: 100%; height: auto; display: block; line-h
 .mfp-ie7 .mfp-bottom-bar { width: 600px; left: 50%; margin-left: -300px; margin-top: 5px; padding-bottom: 5px; }
 .mfp-ie7 .mfp-container { padding: 0; }
 .mfp-ie7 .mfp-content { padding-top: 44px; }
-.mfp-ie7 .mfp-close { top: 0; right: 0; padding-top: 0; }</p></body></html>
+.mfp-ie7 .mfp-close { top: 0; right: 0; padding-top: 0; }

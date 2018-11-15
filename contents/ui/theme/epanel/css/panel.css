@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body><p>#epanel span,
+
+#epanel span,
 #epanel applet,
 #epanel object,
 #epanel iframe,
@@ -123,17 +123,168 @@ font-variant: normal;
 text-transform: none;
 line-height: 1;
 -webkit-font-smoothing: antialiased;
-content: " .et-content-div {
+content: "<";
+display: none;
+position: absolute;
+left: 0;
+top: -6px;
+font-size: 32px;
+}
+.rtl #epanel-title:before {
+left: auto;
+right: 0;
+}
+.toplevel_page_et_extra_options h1#epanel-title, .toplevel_page_et_divi_options h1#epanel-title {
+padding-left: 45px;
+}
+.rtl.toplevel_page_et_extra_options h1#epanel-title,
+.rtl.toplevel_page_et_divi_options h1#epanel-title {
+padding-left: 0;
+padding-right: 45px;
+}
+.toplevel_page_et_extra_options #epanel-title:before, .toplevel_page_et_divi_options #epanel-title:before {
+display: block;
+}
+#epanel-header .et-defaults-button {
+width: 60px;
+height: 58px;
+padding: 0;
+text-align: center;
+line-height: 58px;
+position: absolute;
+bottom: -58px;
+right: 20px;
+z-index: 50;
+color: white;
+background-color: #7e3bd0;
+transition: all 0.3s;
+}
+.rtl #epanel-header .et-defaults-button {
+right: auto;
+left: 20px;
+}
+#epanel-header .et-defaults-button:hover {
+background-color: #8F42ED;
+}
+#epanel-header .et-defaults-button:focus {
+box-shadow: none;
+}
+#epanel-header .et-defaults-button.epanel-reset:before {
+font-family: 'etbuilder';
+content: '\4d';
+font-size: 16px;
+-webkit-font-smoothing: antialiased;
+}
+#epanel-header .et-defaults-button .label {
+display: none;
+}
+#epanel-mainmenu {
+background-color: #7e3bd0;
+display: block;
+position: relative;
+overflow: hidden;
+}
+#epanel #epanel-mainmenu {
+padding-right: 140px;
+}
+#epanel-mainmenu li {
+float: left;
+display: inline-block;
+font-family: 'Open Sans', sans-serif;
+font-size: 18px;
+font-weight: 400;
+}
+.rtl #epanel-mainmenu li {
+float: right;
+}
+#epanel-mainmenu a:hover,
+#epanel-mainmenu li.ui-state-active a {
+background-color: #8F42ED;
+}
+#epanel-mainmenu a {
+box-sizing: border-box;
+color: white;
+padding: 20px;
+display: inline-block;
+transition: all 0.3s;
+outline: 0;
+}
+#epanel-mainmenu a:focus {
+box-shadow: none;
+}
+#epanel-content ul.et-id-tabs {
+background-color: #F1F5F9;
+float: left;
+width: 100%;
+}
+#epanel-content ul.et-id-tabs:after {
+content: "";
+visibility: hidden;
+display: block;
+height: 0;
 clear: both;
 }
-#epanel-content &gt; .et-content-div[aria-hidden="false"],
+#epanel-content ul.et-id-tabs li {
+display: inline-block;
+float: left;
+}
+.rtl #epanel-content ul.et-id-tabs li {
+float: right;
+}
+#epanel-content ul.et-id-tabs a {
+color: #8E969E;
+display: block;
+clear: both;
+position: relative;
+padding: 20px;
+font-size: 16px;
+font-weight: 600;
+transition: all 0.3s;
+-webkit-transition: all 0.3s;
+}
+#wrap-general ul.et-id-tabs a:first-of-type {
+padding-right: 25px;
+}
+.rtl #wrap-general ul.et-id-tabs a:first-of-type {
+padding-left: 25px;
+padding-right: 40px;
+}
+#ui-id-9 {
+padding-right: 27px;
+}
+#epanel-content ul.et-id-tabs a:hover {
+background-color: #fff;
+}
+#epanel-content ul.et-id-tabs .ui-tabs-active a {
+background-color: #fff;
+}
+#epanel-content ul.et-id-tabs a:focus {
+box-shadow: none;
+}
+#epanel-content ul.et-id-tabs li{
+position: relative;
+}
+#epanel-content ul.et-id-tabs .ui-state-active a:focus {
+box-shadow: none;
+}
+#epanel-content-wrap {
+display: block;
+position: relative;
+}
+#epanel-content {
+position: relative;
+}
+#epanel-content > .et-content-div {
+clear: both;
+}
+#epanel-content > .et-content-div[aria-hidden="false"],
 #epanel-content .et-tab-content[aria-hidden="false"] {
 -webkit-animation: fadeIn .5s 1 cubic-bezier(0.77, 0, 0.175, 1);
 -moz-animation: fadeIn .5s 1 cubic-bezier(0.77, 0, 0.175, 1);
 -o-animation: fadeIn .5s 1 cubic-bezier(0.77, 0, 0.175, 1);
 animation: fadeIn .5s 1 cubic-bezier(0.77, 0, 0.175, 1);
 }
-#epanel.et-onload #epanel-content &gt; .et-content-div[aria-hidden="false"],
+#epanel.et-onload #epanel-content > .et-content-div[aria-hidden="false"],
 #epanel.et-onload #epanel-content .et-tab-content[aria-hidden="false"] {
 -webkit-animation: none;
 -moz-animation: none;
@@ -212,7 +363,7 @@ display: flex;
 flex-wrap: wrap;
 justify-content: space-between;
 }
-#epanel-content .et-box-content .et-box-content--list &gt; * {
+#epanel-content .et-box-content .et-box-content--list > * {
 padding-left: 0;
 flex-grow: 0;
 flex-shrink: 0;
@@ -1395,10 +1546,10 @@ background: rgba(145, 203, 255, 0.2);
 #epanel .CodeMirror.cm-s-et .cm-s-material.CodeMirror-focused div.CodeMirror-selected {
 background: rgba(0, 0, 0, 0.1);
 }
-#epanel .CodeMirror.cm-s-et .CodeMirror-line::selection, #epanel .CodeMirror.cm-s-et .CodeMirror-line &gt; span::selection, #epanel .CodeMirror.cm-s-et .CodeMirror-line &gt; span &gt; span::selection {
+#epanel .CodeMirror.cm-s-et .CodeMirror-line::selection, #epanel .CodeMirror.cm-s-et .CodeMirror-line > span::selection, #epanel .CodeMirror.cm-s-et .CodeMirror-line > span > span::selection {
 background: rgba(0, 0, 0, 0.1);
 }
-#epanel .CodeMirror.cm-s-et .CodeMirror-line::-moz-selection, #epanel .CodeMirror.cm-s-et .CodeMirror-line &gt; span::-moz-selection, #epanel .CodeMirror.cm-s-et .CodeMirror-line &gt; span &gt; span::-moz-selection {
+#epanel .CodeMirror.cm-s-et .CodeMirror-line::-moz-selection, #epanel .CodeMirror.cm-s-et .CodeMirror-line > span::-moz-selection, #epanel .CodeMirror.cm-s-et .CodeMirror-line > span > span::-moz-selection {
 background: rgba(0, 0, 0, 0.1);
 }
 #epanel .CodeMirror.cm-s-et .CodeMirror-activeline-background {
@@ -1495,4 +1646,3 @@ right: 25px;
 margin-left: 0;
 }
 }
-</p></body></html>

@@ -1,9 +1,8 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body><p>Divi Theme by Elegant Themes
+Divi Theme by Elegant Themes
 ============================
 
-&gt; Copyright (C) Elegant Themes, Inc.
-&gt; http://www.elegantthemes.com
+> Copyright (C) Elegant Themes, Inc.
+> http://www.elegantthemes.com
 
 Divi is a WordPress theme and website builder created by Elegant Themes. This
 software is released under the The GNU General Public License, Version 2. Divi
@@ -21,8 +20,8 @@ A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 The GNU General Public License, Version 2, June 1991 (GPLv2)
 ============================================================
 
-&gt; Copyright (C) 1989, 1991 Free Software Foundation, Inc.
-&gt; 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA
+> Copyright (C) 1989, 1991 Free Software Foundation, Inc.
+> 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA
 
 Everyone is permitted to copy and distribute verbatim copies of this license
 document, but changing it is not allowed.
@@ -282,4 +281,3 @@ INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA
 BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A
 FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER
 OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
-</p></body></html>

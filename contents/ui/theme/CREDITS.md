@@ -1,5 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body><p>Development Credits And Associated Licenses
+Development Credits And Associated Licenses
 ===========================================
 
 Divi makes use of several pieces of open source software. When possible, each file
@@ -18,7 +17,7 @@ HTML5 Enabling Script
 js/html5.js
 
 ```text
-iepp v2.1pre @jon_neal &amp; @aFarkas github.com/aFarkas/iepp
+iepp v2.1pre @jon_neal & @aFarkas github.com/aFarkas/iepp
 
 html5shiv @rem remysharp.com/html5-enabling-script
 
@@ -73,7 +72,7 @@ The MIT License (MIT)
 Underscore.js 1.8.3
 http://underscorejs.org
 (c) 2009-2015 Jeremy Ashkenas,
-DocumentCloud and Investigative Reporters &amp; Editors
+DocumentCloud and Investigative Reporters & Editors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -163,7 +162,7 @@ Copyright 2003-2010 by the contributors
 WordPress is released under the GPL
 ```
 
-TinyMCE Media Upload Functions sendAttachment &amp; addMedia
+TinyMCE Media Upload Functions sendAttachment & addMedia
 --------------------------------------------------------
 
 includes/builder/frontend-builder/bundle.js
@@ -209,7 +208,7 @@ includes/builder/frontend-builder/bundle.js
 ```text
 MIT License
 
-Copyright (C) 2017 by Marijn Haverbeke <marijnh> and others
+Copyright (C) 2017 by Marijn Haverbeke <marijnh@gmail.com> and others
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -405,7 +404,7 @@ includes/builder/scripts/ext/jquery.validate.js
 The MIT License (MIT)
 
 http://jqueryvalidation.org/
-Copyright (c) 2014 J&Atilde;&para;rn Zaefferer
+Copyright (c) 2014 Jörn Zaefferer
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
@@ -537,7 +536,7 @@ Copyright 2011, Dave Rupert http://daverupert.com
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
 Version 2, December 2004
 
-Copyright (C) 2004 Sam Hocevar <sam>
+Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
 
 Everyone is permitted to copy and distribute verbatim or modified
 copies of this license document, and changing it is allowed as long
@@ -561,7 +560,7 @@ Credit to Thierry Koblentz - http://www.alistapart.com/articles/creating-intrins
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
 Version 2, December 2004
 
-Copyright (C) 2004 Sam Hocevar <sam>
+Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
 
 Everyone is permitted to copy and distribute verbatim or modified
 copies of this license document, and changing it is allowed as long
@@ -671,7 +670,7 @@ includes/builder/scripts/waypoints.min.js
 ```text
 The MIT License (MIT)
 
-Copyright &Acirc;&copy; 2011-2015 Caleb Troughton
+Copyright © 2011-2015 Caleb Troughton
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
@@ -818,10 +817,10 @@ Lodash
 includes/builder/frontend-builder/bundle.js
 
 ```text
-Copyright jQuery Foundation and other contributors <https:></https:>
+Copyright jQuery Foundation and other contributors <https://jquery.org/>
 
 Based on Underscore.js, copyright Jeremy Ashkenas,
-DocumentCloud and Investigative Reporters &amp; Editors <http:></http:>
+DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
 
 This software consists of voluntary contributions made by many
 individuals. For exact contribution history, see the revision history
@@ -869,7 +868,7 @@ includes/builder/frontend-builder/bundle.js
 ```text
 The MIT License (MIT)
 
-Copyright (c) Sindre Sorhus <sindresorhus> (sindresorhus.com)
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1160,7 +1159,7 @@ includes/builder/frontend-builder/bundle.js
 The MIT License (MIT)
 
 Copyright (c) 2009-2015 Jeremy Ashkenas, DocumentCloud and Investigative
-Reporters &amp; Editors
+Reporters & Editors
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
@@ -1368,7 +1367,7 @@ includes/builder/scripts/lz-string.min.js
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
 Version 2, December 2004
 
-Copyright (C) 2004 Sam Hocevar <sam>
+Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
 
 Everyone is permitted to copy and distribute verbatim or modified
 copies of this license document, and changing it is allowed as long
@@ -1501,8 +1500,8 @@ https://github.com/abraham/twitteroauth/releases/tag/0.3.0
 
 The MIT License (MIT)
 
-Copyright &Acirc;&copy; 2009-2016 Abraham Williams
-Copyright &Acirc;&copy; 2007-2009 Andy Smith
+Copyright © 2009-2016 Abraham Williams
+Copyright © 2007-2009 Andy Smith
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
@@ -1525,4 +1524,3 @@ WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 ```
-</sam></sindresorhus></sam></sam></marijnh></p></body></html>
