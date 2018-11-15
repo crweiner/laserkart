@@ -1,0 +1,13 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>.et-core-version-rollback-modal .et-core-modal-temp-content {
+display: -ms-flexbox;
+display: -webkit-flex;
+display: flex;
+-ms-justify-content: center;
+-webkit-justify-content: center;
+justify-content: center;
+-ms-flex-align: center;
+-webkit-align-items: center;
+align-items: center;
+}
+</p></body></html>
